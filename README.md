@@ -1,13 +1,12 @@
-# Story
-In Class 26 you have learnt about Gitbash, creating a repository, and committing code to the
-repository.
-In this project you have to update the README.md file to write a story in your own words, commit it by writing your name in the message. Then finally push it on github.
-
-# Master-chef
-The recipe is to create a Chicken burger. Download and open for using recipe.
-
-# Output Link
-https://demo-whj.github.io/Masterchef-Junior/
-
-# Output Link 2
-https://the-rajdivyansh04.github.io/C.26/
+Step1 :-
+Get a pizzaa base from the market.
+Step2 :-
+Add the pizza sause on the base.
+Step3 :-
+Add the toppings of your choice for example – onions, tomatoes, bell peppers, sweet corns, jalapeno, etc.
+Step4 :-
+Add cheese of your choice.
+Step5 :-
+Now put the pizza in the oven and let it cook until the base is cook and the cheese is melted.
+Step6 :-
+Now the pizza is almost ready thake the pizza out of the oven and add seasoning if you like it and the last things we need to do is to eat it.
